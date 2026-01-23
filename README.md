@@ -1,5 +1,5 @@
 # About me
-## 👋 Hi, I’m Emily
+### 👋 Hi, I’m Emily
 - 😄 Pronouns: she/her
 
 I’m a **Master of Engineering student in Computer Science & Applications at Virginia Tech**, with a background that spans **clinical neuroscience, healthcare systems, and software engineering**. I didn’t start out in CS—I found my way here after working in a hospital environment and realizing I cared less about writing notes and more about building systems that *actually make people’s work easier*.
