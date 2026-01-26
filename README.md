@@ -2,9 +2,9 @@
 ### 👋 Hi, I’m Emily
 - 😄 Pronouns: she/her
 
-I’m a Master of Engineering student in Computer Science & Applications at Virginia Tech and my background that spans clinical neuroscience, healthcare systems, and software engineering. I didn’t start out in CS—I found my way here after working in a hospital environment and realizing I cared less about writing notes and more about building systems that *actually make people’s work easier*.
+I’m a Master of Engineering student in Computer Science & Applications at Virginia Tech and my background that spans clinical neuroscience, healthcare systems, and software engineering. I wasn’t originally planning to study CS, and during my undergraduate studies at Virginia Tech I was on the pre-medical track. My path changed after I graduated in 2020 and started working in a hospital system where I had the chance to build and automate processes for the clinical team I worked with. That experience helped me realize that I enjoyed creating tools and systems that improve how people work.
 
-These days, I’m focused on **full-stack development, systems design, and infrastructure-minded engineering**. I like projects that live at the intersection of **technical depth and real-world impact**, especially in healthcare, education, and community-focused spaces.
+I'm currently working on projects that span healthcare, educaiton, and community service impact. 
 
 ---
 
@@ -28,9 +28,8 @@ I’ve dealt with imposter syndrome and steep learning curves, and I try to appr
 
 ---
 
-## 🌱 Outside the Code
+## 🌱 Outside of CS
 I enjoy mentoring, building tools that support underserved communities, and working on projects that blend **technical rigor with human-centered design**. I’m especially interested in how software can reduce friction in complex, high-stakes environments like healthcare and education.
-
 
 ---
 ## 🔭 I’m currently working on..
@@ -39,12 +38,8 @@ I enjoy mentoring, building tools that support underserved communities, and work
 - **Systems & Infrastructure Projects** – Coursework and side projects involving networking, security, and system design, with an emphasis on clean architecture, documentation, and reproducibility.
 - **Portfolio & Developer Tooling** – Refining my personal portfolio, improving CI/CD workflows, and tightening project documentation across repos.
 
-  
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+
 - 📫 How to reach me:
-    email: emilyhhurst1@gmail.com
-    LinkedIn: https://www.linkedin.com/in/emily-h-hurst/
+  * email: emilyhhurst1@gmail.com
+  * LinkedIn: https://www.linkedin.com/in/emily-h-hurst/
   
