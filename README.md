@@ -1,6 +1,5 @@
 # About me
-### 👋 Hi, I’m Emily
-- 😄 Pronouns: she/her
+### 👋 Hi, I’m Emily (Pronouns: she/her)
 
 I'm a graduate student in the Master of Engineering in Computer Science & Applications program at Virginia Tech, and my background spans clinical neuroscience, healthcare systems, and software engineering. I wasn’t originally planning to study CS, and during my undergraduate studies at Virginia Tech I was on the pre-medical track. My path changed after I graduated in 2020 and started working in a hospital system where I had the chance to build and automate processes for the clinical team I worked with. That experience helped me realize that I enjoyed creating tools and systems that improve how people work. My interests include software development, human-computer interaction (HCI), cybersecurity, and I will be graduating this spring (May 2026).
 
