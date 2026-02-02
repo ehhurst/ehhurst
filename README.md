@@ -13,15 +13,6 @@ Because of my background, I’ve dealt with imposter syndrome and steep learning
 - **Email:** emilyhhurst1@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/emily-h-hurst/
     
-
----
-## 🛠️ What I Like Building
-- **Full-stack applications** (FastAPI/Flask, SQLAlchemy, React/Next.js)
-- **Infrastructure-aware systems** (Docker, CI/CD, cloud deployment)
-- **Data-driven tools** for planning, visualization, and decision-making
-- **Clean, maintainable architectures** with clear documentation and thoughtful tradeoffs
-
----
 ## My Skills
 
 | Category | Technologies |
