@@ -25,11 +25,11 @@ Because of my background, I’ve dealt with imposter syndrome and steep learning
 | **Auth & Security** | OAuth2, JWT, RBAC, bcrypt |
 | **Data & Visualization** | Pandas, Plotly, Dash |
 | **Systems & Networking** | SDN, Ryu, Mininet |
-| **Design & UX** | Figma, Balsamiq Wireframes, Responsive & Accessible Design |
+| **Design & UX** | Figma, Balsamiq Wireframes |
 | **Tooling** | Git, Linux, CI/CD, Agile Project Management |
 
 ---
-## 🚧 Projects I’m Currently Working On
+## Projects I’m Currently Working On
 - **MCAT Study Platform** — A full-stack web application (FastAPI, SQLAlchemy, React/Next.js) that helps premedical students plan and track long-term MCAT study, with a focus on accessibility for low-income and underrepresented students.
 - **Veterans@VT Website** — Designing and maintaining a responsive website that centralizes resources, events, and information for the Virginia Tech student veteran community.
 - **Systems & Infrastructure Projects** — Coursework and side projects in networking, security, and system design, emphasizing clean architecture, documentation, and reproducibility.
