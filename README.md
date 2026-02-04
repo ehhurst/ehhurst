@@ -1,5 +1,5 @@
 # About me
-### 👋 Hi, I’m Emily (Pronouns: she/her)
+### Hi, I’m Emily (Pronouns: she/her)
 
 I'm a graduate student in the Master of Engineering in Computer Science & Applications program at Virginia Tech with a background that spans clinical neuroscience, healthcare systems, and software engineering. 
 
@@ -9,7 +9,7 @@ My current interests include software development, human-computer interaction (H
 
 Because of my background, I’ve dealt with imposter syndrome and steep learning curves, and I try to approach engineering with curiosity instead of perfectionism. I value creating simple systems that meet client needs. I enjoy improving documentation so that future-me and my teammates don't suffer. I'm still learning and am comfortable asking questions. I'm very open about and not afraid of not knowing everything.
 
-📫 **How to reach me**
+ **How to reach me**
 - **Email:** emilyhhurst1@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/emily-h-hurst/
     
