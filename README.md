@@ -5,7 +5,7 @@ I'm a graduate student in the Master of Engineering in Computer Science & Applic
 
 I didn’t originally plan to study computer science. During my undergraduate studies at Virginia Tech, I was on the pre-medical track, but after graduating in 2020 and working in a hospital system, my path shifted. I had the opportunity to build and automate tools for the clinical team I worked with and through that experience I discovered that I loved creating systems that make people’s work easier and more efficient.
 
-My current interests include software development, human-computer interaction (HCI), and cybersecurity. I care a lot about the impact that the projects I build have on clients and my community. I'm currently working on projects that span the healthcare, educaiton, and community service sectors. Because of my background, I’ve dealt with imposter syndrome and steep learning curves, and I try to approach engineering with curiosity instead of perfectionism. I'm still learning and am comfortable asking questions. I'm very open about and not afraid of not knowing everything.
+My current interests include software development, human-computer interaction (HCI), and cybersecurity. I care a lot about the impact that the projects I build have on clients and my community. I'm currently working on projects that span the healthcare, education, and community service sectors. Because of my background, I’ve dealt with imposter syndrome and steep learning curves, and I try to approach engineering with curiosity instead of perfectionism. I'm still learning and am comfortable asking questions. I'm very open about and not afraid of not knowing everything.
 
  **How to reach me**
 - **Email:** emilyhhurst1@gmail.com  
