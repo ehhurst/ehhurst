@@ -197,7 +197,21 @@ My current interests include software development, human-computer interaction (H
 ![Static Badge](https://img.shields.io/badge/Django-white?style=flat&logo=django&logoColor=%23092E20)
 ![Static Badge](https://img.shields.io/badge/Django-grey?style=flat&logo=django&logoColor=%23092E20)
 ![Static Badge](https://img.shields.io/badge/Django-black?style=flat&logo=django&logoColor=%23092E20)
+![Top Languages](https://github-readme-stats-fork-orpin.vercel.app/api/top-langs/?username=ehhurst)
+![Top Languages](https://github-readme-stats-fork-orpin.vercel.app/api/top-langs/?username=ehhurst&layout=compact)
+![Top Languages](https://github-readme-stats-fork-orpin.vercel.app/api/top-langs/?username=ehhurst&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-fork-orpin.vercel.app/api/top-langs/?username=ehhurst&layout=compact&hide=html,css)
+![Top Languages](https://github-readme-stats-fork-orpin.vercel.app/api/top-langs/?username=ehhurst&layout=compact&theme=default#gh-light-mode-only)
+![Top Languages](https://github-readme-stats-fork-orpin.vercel.app/api/top-langs/?username=ehhurst&layout=compact&theme=radical#gh-dark-mode-only)
+<p align="center">
+  <img height="165" src="https://github-readme-stats-fork-orpin.vercel.app/api?username=ehhurst&show_icons=true&theme=radical" />
+  <img height="165" src="https://github-readme-stats-fork-orpin.vercel.app/api/top-langs/?username=ehhurst&layout=compact&theme=radical" />
+</p>
 
+<p align="center">
+  <img height="170" src="https://github-readme-stats-fork-orpin.vercel.app/api?username=ehhurst&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-fork-orpin.vercel.app/api/top-langs/?username=ehhurst&layout=compact&theme=transparent&hide_border=true" />
+</p>
 | Category | Technologies |
 |--------|--------------|
 | **Languages** | Python, JavaScript, TypeScript, Java, C, Kotlin, SQL, Bash |
@@ -220,3 +234,5 @@ My current interests include software development, human-computer interaction (H
 ![Emily's GitHub stats](https://github-readme-stats-fork-orpin.vercel.app/api?username=ehhurst&show_icons=true&theme=default#gh-light-mode-only)
   
 ![Emily's GitHub stats](https://github-readme-stats-fork-orpin.vercel.app/api?username=ehhurst&show_icons=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats-fork-orpin.vercel.app/api/top-langs/?username=ehhurst&layout=compact&theme=radical)
