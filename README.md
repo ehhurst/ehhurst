@@ -212,6 +212,32 @@ My current interests include software development, human-computer interaction (H
   <img height="170" src="https://github-readme-stats-fork-orpin.vercel.app/api?username=ehhurst&show_icons=true&theme=transparent&hide_border=true" />
   <img height="170" src="https://github-readme-stats-fork-orpin.vercel.app/api/top-langs/?username=ehhurst&layout=compact&theme=transparent&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fork-orpin.vercel.app/api/pin/?username=ehhurst&repo=social-books&theme=transparent&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ehhurst&theme=transparent&hide_border=true" />
+</p>
+
+![Emily's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ehhurst&theme=github-compact)
+
+![Emily's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ehhurst&bg_color=00000000&color=861F41&line=861F41&point=861F41&area=true)
+
+![](https://komarev.com/ghpvc/?username=ehhurst&color=861F41)
+
+#### Simulation
+![Three.js](...)
+![Socket.IO](...)
+![TypeScript](...)
+
+#### Backend
+![Node.js](...)
+![Express](...)
+
+#### Research
+![Python](...)
+![NetworkX](...)
 | Category | Technologies |
 |--------|--------------|
 | **Languages** | Python, JavaScript, TypeScript, Java, C, Kotlin, SQL, Bash |
