@@ -215,3 +215,7 @@ My current interests include software development, human-computer interaction (H
 ## Projects I’m Currently Working On
 - **MCAT Study Platform** — A full-stack web application (FastAPI, SQLAlchemy, React/Next.js) that helps premedical students plan and track long-term MCAT study, with a focus on accessibility for low-income and underrepresented students.
 - **Veterans@VT Website** — Designing and maintaining a responsive website that centralizes resources, events, and information for the Virginia Tech student veteran community.
+
+![Emily's GitHub stats](https://github-readme-stats-fork-orpin.vercel.app/api?username=ehhurst&show_icons=true&theme=radical#gh-dark-mode-only)
+![Emily's GitHub stats](https://github-readme-stats-fork-orpin.vercel.app/api?username=ehhurst&show_icons=true&theme=default#gh-light-mode-only)
+  
