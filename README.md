@@ -219,3 +219,4 @@ My current interests include software development, human-computer interaction (H
 ![Emily's GitHub stats](https://github-readme-stats-fork-orpin.vercel.app/api?username=ehhurst&show_icons=true&theme=radical#gh-dark-mode-only)
 ![Emily's GitHub stats](https://github-readme-stats-fork-orpin.vercel.app/api?username=ehhurst&show_icons=true&theme=default#gh-light-mode-only)
   
+![Emily's GitHub stats](https://github-readme-stats-fork-orpin.vercel.app/api?username=ehhurst&show_icons=true&theme=transparent)
