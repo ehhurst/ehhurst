@@ -225,6 +225,73 @@ My current interests include software development, human-computer interaction (H
 ![Emily's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ehhurst&bg_color=00000000&color=861F41&line=861F41&point=861F41&area=true)
 
 ![](https://komarev.com/ghpvc/?username=ehhurst&color=861F41)
+## Languages
+
+[![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB)](#react-projects)
+[![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6)](#ts-projects)
+
+---
+
+<a id="react-projects"></a>
+<details>
+  <summary><b>React Projects</b></summary>
+
+- **Alexandria Virtual Patient** — avatar UI
+- **Veterans@VT** — site UI
+
+</details>
+
+<a id="ts-projects"></a>
+<details>
+  <summary><b>TypeScript Projects</b></summary>
+
+- **Alexandria Virtual Patient** — server + tests
+- **MCAT-App** — (if TS involved)
+
+</details>
+<p align="center">
+  <a href="https://github.com/ehhurst/vets-at-vt">
+    <img src="https://github-readme-stats-fork-orpin.vercel.app/api/pin/?username=ehhurst&repo=vets-at-vt&theme=transparent&hide_border=true" />
+  </a>
+</p>
+A full-stack web platform for the Virginia Tech Student Veterans Organization  
+that supports public event visibility and role-based admin management.  
+![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=next.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-0F172A?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=336791)
+**Tech Stack:** Next.js • Tailwind • Supabase • PostgreSQL • ICS Calendar Integration
+
+
+<p align="center">
+  <a href="https://github.com/ehhurst/vets-at-vt">
+    <img src="https://github-readme-stats-fork-orpin.vercel.app/api/pin/?username=ehhurst&repo=vets-at-vt&theme=transparent&hide_border=true" />
+  </a>
+  <br/>
+  <a href="https://veterans-at-vt.vercel.app/">
+    <img width="700" alt="Veterans@VT website preview"
+         src="https://image.thum.io/get/width/1200/https://veterans-at-vt.vercel.app/" />
+  </a>
+</p>
+
+## Languages
+
+[![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB)](#react)
+[![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6)](#typescript)
+[![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=F7DF1E)](#python)
+---
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6)](https://github.com/search?q=user%3Aehhurst+language%3ATypeScript&type=repositories)
+
+## React
+- **Alexandria Virtual Patient (UI)** — Three.js + R3F front-end  
+- **Veterans@VT** — Next.js + Tailwind
+
+## TypeScript
+- **Alexandria Virtual Patient** — server + socket events + tests  
+- **TellMyProf** — (whatever you want to list)
+
+## Python
+- **NHANES CVD Viz/ML** — Dash dashboard + analysis
 
 #### Simulation
 ![Three.js](...)
