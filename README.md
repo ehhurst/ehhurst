@@ -204,8 +204,7 @@ LATEX
 
 
 
-![Top Languages](https://github-readme-stats-fork-orpin.vercel.app/api/top-langs/?username=ehhurst)
-![Top Languages](https://github-readme-stats-fork-orpin.vercel.app/api/top-langs/?username=ehhurst&layout=compact)
+
 ![Top Languages](https://github-readme-stats-fork-orpin.vercel.app/api/top-langs/?username=ehhurst&layout=compact&theme=radical)
 ![Top Languages](https://github-readme-stats-fork-orpin.vercel.app/api/top-langs/?username=ehhurst&layout=compact&hide=html,css)
 ![Top Languages](https://github-readme-stats-fork-orpin.vercel.app/api/top-langs/?username=ehhurst&layout=compact&theme=default#gh-light-mode-only)
@@ -232,12 +231,7 @@ LATEX
 ![Emily's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ehhurst&bg_color=00000000&color=861F41&line=861F41&point=861F41&area=true)
 
 ![](https://komarev.com/ghpvc/?username=ehhurst&color=861F41)
-## Languages
 
-[![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB)](#react-projects)
-[![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6)](#ts-projects)
-
----
 
 <a id="react-projects"></a>
 <details>
@@ -280,14 +274,7 @@ that supports public event visibility and role-based admin management.
   </a>
 </p>
 
-## Languages
 
-[![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB)](#react)
-[![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6)](#typescript)
-[![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=F7DF1E)](#python)
----
-
-[![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6)](https://github.com/search?q=user%3Aehhurst+language%3ATypeScript&type=repositories)
 
 ## React
 - **Alexandria Virtual Patient (UI)** — Three.js + R3F front-end  
