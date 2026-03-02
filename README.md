@@ -14,11 +14,10 @@ My current interests include software development, human-computer interaction (H
 ## My Skills
 ### Languages
 
-![Static Badge](https://img.shields.io/badge/React-white?style=flat&logo=react&logoColor=%2361DAFB)
+
 ![Static Badge](https://img.shields.io/badge/React-gray?style=flat&logo=react&logoColor=%2361DAFB)
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=%23FFD43B)
 ![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?style=flat&logo=typescript&logoColor=white)
-![Static Badge](https://img.shields.io/badge/JavaScript-white?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/JavaScript-gray?style=flat&logo=javascript&logoColor=%23F7DF1E)
