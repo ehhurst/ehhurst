@@ -1,37 +1,6 @@
 ## 🌸 About Me
 
 
-<div style="display:flex; gap:24px; align-items:flex-start; justify-content:space-between; flex-wrap:wrap;">
-    <div style="align:center;"> 
-        <p>test</p>
-    </div>
-    <!-- Left: text -->
-    <div style="flex:1; min-width:320px;">
-        <h3>Hi, I'm Emily!</h3>
-        <p>I'm a graduate student in the <b>M.Eng. Computer Science & Applications</b> program at Virginia Tech with a background spanning clinical neuroscience, healthcare systems, and software engineering.
-        </p>
-        <p>I enjoy building systems that improve workflows for real users. My interests include <b>software engineering</b>, <b>human-computer interaction</b>, and <b>cybersecurity</b>.
-        </p>
-        <p><b>Contact</b><br/>
-            Email: emilyhhurst1@gmail.com<br/>
-            LinkedIn: linkedin.com/in/emily-h-hurst
-        </p>
-        <p>
-            <img src="https://img.shields.io/badge/Email-FF9EBB?style=for-the-badge&logo=gmail&logoColor=0F172A" />
-            <img src="https://img.shields.io/badge/LinkedIn-FF9EBB?style=for-the-badge&logo=linkedin&logoColor=0F172A" />
-            <img src="https://img.shields.io/badge/GitHub-FF9EBB?style=for-the-badge&logo=github&logoColor=0F172A" />
-        </p>
-    </div>
-    <!-- Right: streak -->
-    <div style="flex:0 0 380px; max-width:420px; text-align:center;">
-        <img src="https://streak-stats.demolab.com?user=ehhurst&theme=transparent&hide_border=true&ring=FF9EBB&fire=FF9EBB&currStreakLabel=FF9EBB&sideLabels=FFC3D6&currStreakNum=FFC3D6&sideNums=FFC3D6&dates=FFC3D6"
-      alt="GitHub Streak"
-    />
-    </div>
-</div>
-
-
-
 
 <table>
 <tr>
@@ -39,24 +8,33 @@
 
 ### Hi, I'm Emily!
 
-I'm a graduate student in the **M.Eng. Computer Science & Applications** program at Virginia Tech with a background spanning clinical neuroscience, healthcare systems, and software engineering.
+I'm a graduate student in the M.Eng. Computer Science & Applications program at Virginia Tech with a background spanning clinical neuroscience, healthcare systems, and software engineering.
 
-I enjoy building systems that improve workflows for real users. My interests include **software engineering, human-computer interaction, and cybersecurity**.
+I didn’t originally plan to study computer science and during my undergraduate studies I was on the pre-medical track. However, after graduating in 2020 and working in a hospital system, my path shifted. I had the opportunity to build and automate tools for the clinical team I worked with and through that experience I discovered that I loved creating systems that make people’s work easier and more efficient.
 
-**Contact**
-- Email: emilyhhurst1@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/emily-h-hurst/
+My current interests include software development, human-computer interaction (HCI), and cybersecurity. I care a lot about the impact that the projects I build have on clients and my community, and I'm currently working on projects that span the healthcare, education, and community service sectors.
+
 
 </td>
 
 <td width="45%" align="center">
+**How to reach me**
+    
+![Email](https://img.shields.io/badge/Email-FF9EBB?style=for-the-badge&logo=gmail&logoColor=0F172A)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-FF9EBB?style=for-the-badge&logo=linkedin&logoColor=0F172A)
+![GitHub](https://img.shields.io/badge/GitHub-FF9EBB?style=for-the-badge&logo=github&logoColor=0F172A)
 
-<img src="https://streak-stats.demolab.com?user=ehhurst&theme=transparent&hide_border=true&ring=FF9EBB&fire=FF9EBB&currStreakLabel=FF9EBB&sideLabels=FFC3D6&currStreakNum=FFC3D6&sideNums=FFC3D6&dates=FFC3D6" />
+- **Email:** emilyhhurst1@gmail.com  
+- **LinkedIn:** linkedin.com/in/emily-h-hurst
 
 </td>
 </tr>
+  
+
+
 
 <tr>
+    <img src="https://streak-stats.demolab.com?user=ehhurst&theme=transparent&hide_border=true&ring=FF9EBB&fire=FF9EBB&currStreakLabel=FF9EBB&sideLabels=FFC3D6&currStreakNum=FFC3D6&sideNums=FFC3D6&dates=FFC3D6" />
 <td colspan="2" align="center">
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ehhurst&bg_color=00000000&color=FF9EBB&line=FF9EBB&point=FF9EBB&area=true&hide_border=true" />
@@ -69,11 +47,6 @@ I enjoy building systems that improve workflows for real users. My interests inc
 
 ### Hi, I’m Emily!
 
-I'm a graduate student in the M.Eng. Computer Science & Applications program at Virginia Tech with a background spanning clinical neuroscience, healthcare systems, and software engineering.
-
-I didn’t originally plan to study computer science and during my undergraduate studies I was on the pre-medical track. However, after graduating in 2020 and working in a hospital system, my path shifted. I had the opportunity to build and automate tools for the clinical team I worked with and through that experience I discovered that I loved creating systems that make people’s work easier and more efficient.
-
-My current interests include software development, human-computer interaction (HCI), and cybersecurity. I care a lot about the impact that the projects I build have on clients and my community, and I'm currently working on projects that span the healthcare, education, and community service sectors.
 <div align="end">
   <img height="165" src="https://streak-stats.demolab.com?user=ehhurst&theme=transparent&hide_border=true&ring=FF9EBB&fire=FF9EBB&currStreakLabel=FF9EBB&sideLabels=FFC3D6&currStreakNum=FFC3D6&sideNums=FFC3D6&dates=FFC3D6" />
   <img height="165" src="https://github-readme-activity-graph.vercel.app/graph?username=ehhurst&bg_color=00000000&color=FF9EBB&line=FF9EBB&point=FF9EBB&area=true&hide_border=true" />
@@ -88,6 +61,7 @@ My current interests include software development, human-computer interaction (H
 
 - **Email:** emilyhhurst1@gmail.com  
 - **LinkedIn:** linkedin.com/in/emily-h-hurst
+
 
 <br/>
 
