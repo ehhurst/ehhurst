@@ -1,18 +1,158 @@
-# About me
+## 🌸 About Me
+
+
+<div style="display:flex; gap:24px; align-items:flex-start; justify-content:space-between; flex-wrap:wrap;">
+    <div style="align:center;"> 
+        <p>test</p>
+    </div>
+    <!-- Left: text -->
+    <div style="flex:1; min-width:320px;">
+        <h3>Hi, I'm Emily!</h3>
+        <p>I'm a graduate student in the <b>M.Eng. Computer Science & Applications</b> program at Virginia Tech with a background spanning clinical neuroscience, healthcare systems, and software engineering.
+        </p>
+        <p>I enjoy building systems that improve workflows for real users. My interests include <b>software engineering</b>, <b>human-computer interaction</b>, and <b>cybersecurity</b>.
+        </p>
+        <p><b>Contact</b><br/>
+            Email: emilyhhurst1@gmail.com<br/>
+            LinkedIn: linkedin.com/in/emily-h-hurst
+        </p>
+        <p>
+            <img src="https://img.shields.io/badge/Email-FF9EBB?style=for-the-badge&logo=gmail&logoColor=0F172A" />
+            <img src="https://img.shields.io/badge/LinkedIn-FF9EBB?style=for-the-badge&logo=linkedin&logoColor=0F172A" />
+            <img src="https://img.shields.io/badge/GitHub-FF9EBB?style=for-the-badge&logo=github&logoColor=0F172A" />
+        </p>
+    </div>
+    <!-- Right: streak -->
+    <div style="flex:0 0 380px; max-width:420px; text-align:center;">
+        <img src="https://streak-stats.demolab.com?user=ehhurst&theme=transparent&hide_border=true&ring=FF9EBB&fire=FF9EBB&currStreakLabel=FF9EBB&sideLabels=FFC3D6&currStreakNum=FFC3D6&sideNums=FFC3D6&dates=FFC3D6"
+      alt="GitHub Streak"
+    />
+    </div>
+</div>
+
+
+
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### Hi, I'm Emily!
+
+I'm a graduate student in the **M.Eng. Computer Science & Applications** program at Virginia Tech with a background spanning clinical neuroscience, healthcare systems, and software engineering.
+
+I enjoy building systems that improve workflows for real users. My interests include **software engineering, human-computer interaction, and cybersecurity**.
+
+**Contact**
+- Email: emilyhhurst1@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/emily-h-hurst/
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://streak-stats.demolab.com?user=ehhurst&theme=transparent&hide_border=true&ring=FF9EBB&fire=FF9EBB&currStreakLabel=FF9EBB&sideLabels=FFC3D6&currStreakNum=FFC3D6&sideNums=FFC3D6&dates=FFC3D6" />
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ehhurst&bg_color=00000000&color=FF9EBB&line=FF9EBB&point=FF9EBB&area=true&hide_border=true" />
+
+</td>
+</tr>
+</table>
+</table>
+
+
 ### Hi, I’m Emily!
 
-I'm a graduate student in the Master of Engineering in Computer Science & Applications program at Virginia Tech with a background that spans clinical neuroscience, healthcare systems, and software engineering. 
+I'm a graduate student in the M.Eng. Computer Science & Applications program at Virginia Tech with a background spanning clinical neuroscience, healthcare systems, and software engineering.
 
-I didn’t originally plan to study computer science. During my undergraduate studies at Virginia Tech, I was on the pre-medical track, but after graduating in 2020 and working in a hospital system, my path shifted. I had the opportunity to build and automate tools for the clinical team I worked with and through that experience I discovered that I loved creating systems that make people’s work easier and more efficient.
+I didn’t originally plan to study computer science and during my undergraduate studies I was on the pre-medical track. However, after graduating in 2020 and working in a hospital system, my path shifted. I had the opportunity to build and automate tools for the clinical team I worked with and through that experience I discovered that I loved creating systems that make people’s work easier and more efficient.
 
-My current interests include software development, human-computer interaction (HCI), and cybersecurity. I care a lot about the impact that the projects I build have on clients and my community. I'm currently working on projects that span the healthcare, education, and community service sectors. Because of my background, I’ve dealt with imposter syndrome and steep learning curves, and I try to approach engineering with curiosity instead of perfectionism. I'm still learning and am comfortable asking questions. I'm very open about and not afraid of not knowing everything.
+My current interests include software development, human-computer interaction (HCI), and cybersecurity. I care a lot about the impact that the projects I build have on clients and my community, and I'm currently working on projects that span the healthcare, education, and community service sectors.
+<div align="end">
+  <img height="165" src="https://streak-stats.demolab.com?user=ehhurst&theme=transparent&hide_border=true&ring=FF9EBB&fire=FF9EBB&currStreakLabel=FF9EBB&sideLabels=FFC3D6&currStreakNum=FFC3D6&sideNums=FFC3D6&dates=FFC3D6" />
+  <img height="165" src="https://github-readme-activity-graph.vercel.app/graph?username=ehhurst&bg_color=00000000&color=FF9EBB&line=FF9EBB&point=FF9EBB&area=true&hide_border=true" />
+</div>
 
- **How to reach me**
+<img src="https://streak-stats.demolab.com?user=ehhurst&theme=transparent&hide_border=true&ring=FF9EBB&fire=FF9EBB&currStreakLabel=FF9EBB&sideLabels=FFC3D6&currStreakNum=FFC3D6&sideNums=FFC3D6&dates=FFC3D6" />
+
+**How to reach me**
+![Email](https://img.shields.io/badge/Email-FF9EBB?style=for-the-badge&logo=gmail&logoColor=0F172A)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-FF9EBB?style=for-the-badge&logo=linkedin&logoColor=0F172A)
+![GitHub](https://img.shields.io/badge/GitHub-FF9EBB?style=for-the-badge&logo=github&logoColor=0F172A)
+
 - **Email:** emilyhhurst1@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/emily-h-hurst/
+- **LinkedIn:** linkedin.com/in/emily-h-hurst
+
+<br/>
+
+## Featured Projects
+
+<p align="center">
+  <a href="https://github.com/ehhurst/vets-at-vt">
+    <img width="420" src="https://github-readme-stats-fork-orpin.vercel.app/api/pin/?username=ehhurst&repo=vets-at-vt&theme=transparent&hide_border=true&title_color=FF9EBB&text_color=FFC3D6&icon_color=FF9EBB" />
+  </a>
+</p>
+
+
+<!-- Activity Graph -->
+<div align="center">
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=ehhurst&bg_color=00000000&color=FF9EBB&line=FF9EBB&point=FF9EBB&area=true&hide_border=true" />
+</div>
+
+<br>
+
+<!-- Stats + Languages -->
+<div align="center">
+  <img height="165" src="https://github-readme-stats-fork-orpin.vercel.app/api?username=ehhurst&show_icons=true&theme=transparent&hide_border=true&title_color=FF9EBB&text_color=FFC3D6&icon_color=FF9EBB" />
+  <img height="165" src="https://github-readme-stats-fork-orpin.vercel.app/api/top-langs/?username=ehhurst&layout=compact&theme=transparent&hide_border=true&title_color=FF9EBB&text_color=FFC3D6" />
+</div>
+
+<br>
+
+<!-- Streak -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ehhurst&theme=transparent&hide_border=true&ring=FF9EBB&fire=FF9EBB&currStreakLabel=FF9EBB&sideLabels=FFC3D6&currStreakNum=FFC3D6&sideNums=FFC3D6&dates=FFC3D6" />
+</div>
+
+<br>
+
+<!-- Profile Views -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ehhurst&color=FF9EBB" />
+</div>
+
+
+
+## 🌸 Featured Projects
+Alexandria Virtual Patient
+
+
+![Python](https://img.shields.io/badge/Python-0F172A?style=flat&logo=python&logoColor=FF9EBB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=flat&logo=typescript&logoColor=FF9EBB)
+
+![Email](https://img.shields.io/badge/Email-FF9EBB?style=for-the-badge&logo=gmail&logoColor=0F172A)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-FF9EBB?style=for-the-badge&logo=linkedin&logoColor=0F172A)
+![GitHub](https://img.shields.io/badge/GitHub-FF9EBB?style=for-the-badge&logo=github&logoColor=0F172A)
 
 ![Static Badge](https://img.shields.io/badge/Handshake-black?style=flat&logo=handshake&logoColor=%23D3FB52)
 ![Static Badge](https://img.shields.io/badge/Handshake-grey?style=flat&logo=handshake&logoColor=%23D3FB52)
+<!-- Streak -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ehhurst&theme=transparent&hide_border=true&ring=FF9EBB&fire=FF9EBB&currStreakLabel=FF9EBB&sideLabels=FFC3D6&currStreakNum=FFC3D6&sideNums=FFC3D6&dates=FFC3D6" />
+</div>
+
+<!-- Contribution Graph -->
+<div align="center">
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=ehhurst&bg_color=00000000&color=FF9EBB&line=FF9EBB&point=FF9EBB&area=true&hide_border=true" />
+</div>
+
+
     
 ## My Skills
 ### Languages
@@ -201,36 +341,59 @@ LATEX
 ![Static Badge](https://img.shields.io/badge/JWT-%23000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/JWT-white?style=flat&logo=jsonwebtokens&logoColor=%23000000)
 
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ehhurst&bg_color=00000000&color=FF9EBB&line=FF9EBB&point=FF9EBB&area=true&hide_border=true" />
+</div>
+
+<br>
+
+<!-- Stats + Languages -->
+<div align="center">
+  <img height="165" src="https://github-readme-stats-fork-orpin.vercel.app/api?username=ehhurst&show_icons=true&theme=transparent&hide_border=true&title_color=FF9EBB&text_color=FFC3D6&icon_color=FF9EBB" />
+  <img height="165" src="https://github-readme-stats-fork-orpin.vercel.app/api/top-langs/?username=ehhurst&layout=compact&theme=transparent&hide_border=true&title_color=FF9EBB&text_color=FFC3D6" />
+</div>
+
+<br>
+
+<!-- Streak -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ehhurst&theme=transparent&hide_border=true&ring=FF9EBB&fire=FF9EBB&currStreakLabel=FF9EBB&sideLabels=FFC3D6&currStreakNum=FFC3D6&sideNums=FFC3D6&dates=FFC3D6" />
+</div>
+
+<br>
+
+<!-- Profile Views -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ehhurst&color=FF9EBB" />
+</div>
+
+![Top Languages](https://github-readme-stats-fork-orpin.vercel.app/api/top-langs/?username=ehhurst&layout=compact&theme=transparent&hide_border=true&title_color=ff6fae&text_color=ff9ebb)
+![GitHub Stats](https://github-readme-stats-fork-orpin.vercel.app/api?username=ehhurst&show_icons=true&theme=transparent&hide_border=true&title_color=ff6fae&text_color=ff9ebb&icon_color=ff6fae)
 
 
 
 
-![Top Languages](https://github-readme-stats-fork-orpin.vercel.app/api/top-langs/?username=ehhurst&layout=compact&theme=radical)
-![Top Languages](https://github-readme-stats-fork-orpin.vercel.app/api/top-langs/?username=ehhurst&layout=compact&hide=html,css)
-![Top Languages](https://github-readme-stats-fork-orpin.vercel.app/api/top-langs/?username=ehhurst&layout=compact&theme=default#gh-light-mode-only)
-![Top Languages](https://github-readme-stats-fork-orpin.vercel.app/api/top-langs/?username=ehhurst&layout=compact&theme=radical#gh-dark-mode-only)
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats-fork-orpin.vercel.app/api?username=ehhurst&show_icons=true&theme=radical" />
-  <img height="165" src="https://github-readme-stats-fork-orpin.vercel.app/api/top-langs/?username=ehhurst&layout=compact&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=ehhurst&theme=transparent&hide_border=true&ring=ff6fae&fire=ff6fae&currStreakLabel=ff6fae&sideLabels=ff9ebb&currStreakNum=ff9ebb&sideNums=ff9ebb&dates=ff9ebb" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-fork-orpin.vercel.app/api?username=ehhurst&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-fork-orpin.vercel.app/api/top-langs/?username=ehhurst&layout=compact&theme=transparent&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=ehhurst&theme=transparent&hide_border=true&ring=ff9ebb&fire=ff9ebb&currStreakLabel=ff9ebb&sideLabels=ffc3d6&currStreakNum=ffc3d6&sideNums=ffc3d6&dates=ffc3d6" />
 </p>
 
+![Emily's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ehhurst&bg_color=00000000&color=FF6FAE&line=FF6FAE&point=FF6FAE&area=true)
+
+![](https://komarev.com/ghpvc/?username=ehhurst&color=FF6FAE)
+
+
+
+social books project
 <p align="center">
   <img src="https://github-readme-stats-fork-orpin.vercel.app/api/pin/?username=ehhurst&repo=social-books&theme=transparent&hide_border=true" />
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ehhurst&theme=transparent&hide_border=true" />
-</p>
 
-![Emily's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ehhurst&theme=github-compact)
-
-![Emily's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ehhurst&bg_color=00000000&color=861F41&line=861F41&point=861F41&area=true)
-
-![](https://komarev.com/ghpvc/?username=ehhurst&color=861F41)
 
 
 <a id="react-projects"></a>
@@ -267,7 +430,8 @@ that supports public event visibility and role-based admin management.
   <a href="https://github.com/ehhurst/vets-at-vt">
     <img src="https://github-readme-stats-fork-orpin.vercel.app/api/pin/?username=ehhurst&repo=vets-at-vt&theme=transparent&hide_border=true" />
   </a>
-  <br/>
+</p>
+<p></p>
   <a href="https://veterans-at-vt.vercel.app/">
     <img width="700" alt="Veterans@VT website preview"
          src="https://image.thum.io/get/width/1200/https://veterans-at-vt.vercel.app/" />
@@ -316,10 +480,3 @@ that supports public event visibility and role-based admin management.
 ## Projects I’m Currently Working On
 - **MCAT Study Platform** — A full-stack web application (FastAPI, SQLAlchemy, React/Next.js) that helps premedical students plan and track long-term MCAT study, with a focus on accessibility for low-income and underrepresented students.
 - **Veterans@VT Website** — Designing and maintaining a responsive website that centralizes resources, events, and information for the Virginia Tech student veteran community.
-
-![Emily's GitHub stats](https://github-readme-stats-fork-orpin.vercel.app/api?username=ehhurst&show_icons=true&theme=radical#gh-dark-mode-only)
-![Emily's GitHub stats](https://github-readme-stats-fork-orpin.vercel.app/api?username=ehhurst&show_icons=true&theme=default#gh-light-mode-only)
-  
-![Emily's GitHub stats](https://github-readme-stats-fork-orpin.vercel.app/api?username=ehhurst&show_icons=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats-fork-orpin.vercel.app/api/top-langs/?username=ehhurst&layout=compact&theme=radical)
