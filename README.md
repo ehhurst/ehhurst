@@ -1,11 +1,5 @@
 ## 🌸 About Me
 
-
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
 ### Hi, I'm Emily!
 
 I'm a graduate student in the M.Eng. Computer Science & Applications program at Virginia Tech with a background spanning clinical neuroscience, healthcare systems, and software engineering.
@@ -15,9 +9,7 @@ I didn’t originally plan to study computer science and during my undergraduate
 My current interests include software development, human-computer interaction (HCI), and cybersecurity. I care a lot about the impact that the projects I build have on clients and my community, and I'm currently working on projects that span the healthcare, education, and community service sectors.
 
 
-</td>
 
-<td width="45%" align="center">
 **How to reach me**
     
 ![Email](https://img.shields.io/badge/Email-FF9EBB?style=for-the-badge&logo=gmail&logoColor=0F172A)
@@ -27,40 +19,7 @@ My current interests include software development, human-computer interaction (H
 - **Email:** emilyhhurst1@gmail.com  
 - **LinkedIn:** linkedin.com/in/emily-h-hurst
 
-</td>
-</tr>
-  
 
-
-
-<tr>
-    <img src="https://streak-stats.demolab.com?user=ehhurst&theme=transparent&hide_border=true&ring=FF9EBB&fire=FF9EBB&currStreakLabel=FF9EBB&sideLabels=FFC3D6&currStreakNum=FFC3D6&sideNums=FFC3D6&dates=FFC3D6" />
-<td colspan="2" align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ehhurst&bg_color=00000000&color=FF9EBB&line=FF9EBB&point=FF9EBB&area=true&hide_border=true" />
-
-</td>
-</tr>
-</table>
-</table>
-
-
-### Hi, I’m Emily!
-
-<div align="end">
-  <img height="165" src="https://streak-stats.demolab.com?user=ehhurst&theme=transparent&hide_border=true&ring=FF9EBB&fire=FF9EBB&currStreakLabel=FF9EBB&sideLabels=FFC3D6&currStreakNum=FFC3D6&sideNums=FFC3D6&dates=FFC3D6" />
-  <img height="165" src="https://github-readme-activity-graph.vercel.app/graph?username=ehhurst&bg_color=00000000&color=FF9EBB&line=FF9EBB&point=FF9EBB&area=true&hide_border=true" />
-</div>
-
-<img src="https://streak-stats.demolab.com?user=ehhurst&theme=transparent&hide_border=true&ring=FF9EBB&fire=FF9EBB&currStreakLabel=FF9EBB&sideLabels=FFC3D6&currStreakNum=FFC3D6&sideNums=FFC3D6&dates=FFC3D6" />
-
-**How to reach me**
-![Email](https://img.shields.io/badge/Email-FF9EBB?style=for-the-badge&logo=gmail&logoColor=0F172A)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-FF9EBB?style=for-the-badge&logo=linkedin&logoColor=0F172A)
-![GitHub](https://img.shields.io/badge/GitHub-FF9EBB?style=for-the-badge&logo=github&logoColor=0F172A)
-
-- **Email:** emilyhhurst1@gmail.com  
-- **LinkedIn:** linkedin.com/in/emily-h-hurst
 
 
 <br/>
@@ -73,6 +32,21 @@ My current interests include software development, human-computer interaction (H
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/ehhurst/vets-at-vt">
+    <img width="420" src="https://github-readme-stats-fork-orpin.vercel.app/api/pin/?username=ehhurst&repo=social-books&theme=transparent&hide_border=true&title_color=FF9EBB&text_color=FFC3D6&icon_color=FF9EBB" />
+  </a>
+</p>
+
+
+--- 
+
+<!-- Streak -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ehhurst&theme=transparent&hide_border=true&ring=FF9EBB&fire=FF9EBB&currStreakLabel=FF9EBB&sideLabels=FFC3D6&currStreakNum=FFC3D6&sideNums=FFC3D6&dates=FFC3D6" />
+</div>
+
+<br>
 
 <!-- Activity Graph -->
 <div align="center">
@@ -89,12 +63,7 @@ My current interests include software development, human-computer interaction (H
 
 <br>
 
-<!-- Streak -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ehhurst&theme=transparent&hide_border=true&ring=FF9EBB&fire=FF9EBB&currStreakLabel=FF9EBB&sideLabels=FFC3D6&currStreakNum=FFC3D6&sideNums=FFC3D6&dates=FFC3D6" />
-</div>
 
-<br>
 
 <!-- Profile Views -->
 <div align="center">
@@ -116,15 +85,6 @@ Alexandria Virtual Patient
 
 ![Static Badge](https://img.shields.io/badge/Handshake-black?style=flat&logo=handshake&logoColor=%23D3FB52)
 ![Static Badge](https://img.shields.io/badge/Handshake-grey?style=flat&logo=handshake&logoColor=%23D3FB52)
-<!-- Streak -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ehhurst&theme=transparent&hide_border=true&ring=FF9EBB&fire=FF9EBB&currStreakLabel=FF9EBB&sideLabels=FFC3D6&currStreakNum=FFC3D6&sideNums=FFC3D6&dates=FFC3D6" />
-</div>
-
-<!-- Contribution Graph -->
-<div align="center">
-  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=ehhurst&bg_color=00000000&color=FF9EBB&line=FF9EBB&point=FF9EBB&area=true&hide_border=true" />
-</div>
 
 
     
@@ -315,24 +275,12 @@ LATEX
 ![Static Badge](https://img.shields.io/badge/JWT-%23000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/JWT-white?style=flat&logo=jsonwebtokens&logoColor=%23000000)
 
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ehhurst&bg_color=00000000&color=FF9EBB&line=FF9EBB&point=FF9EBB&area=true&hide_border=true" />
-</div>
 
-<br>
 
 <!-- Stats + Languages -->
 <div align="center">
-  <img height="165" src="https://github-readme-stats-fork-orpin.vercel.app/api?username=ehhurst&show_icons=true&theme=transparent&hide_border=true&title_color=FF9EBB&text_color=FFC3D6&icon_color=FF9EBB" />
+
   <img height="165" src="https://github-readme-stats-fork-orpin.vercel.app/api/top-langs/?username=ehhurst&layout=compact&theme=transparent&hide_border=true&title_color=FF9EBB&text_color=FFC3D6" />
-</div>
-
-<br>
-
-<!-- Streak -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ehhurst&theme=transparent&hide_border=true&ring=FF9EBB&fire=FF9EBB&currStreakLabel=FF9EBB&sideLabels=FFC3D6&currStreakNum=FFC3D6&sideNums=FFC3D6&dates=FFC3D6" />
 </div>
 
 <br>
@@ -342,6 +290,7 @@ LATEX
   <img src="https://komarev.com/ghpvc/?username=ehhurst&color=FF9EBB" />
 </div>
 
+
 ![Top Languages](https://github-readme-stats-fork-orpin.vercel.app/api/top-langs/?username=ehhurst&layout=compact&theme=transparent&hide_border=true&title_color=ff6fae&text_color=ff9ebb)
 ![GitHub Stats](https://github-readme-stats-fork-orpin.vercel.app/api?username=ehhurst&show_icons=true&theme=transparent&hide_border=true&title_color=ff6fae&text_color=ff9ebb&icon_color=ff6fae)
 
@@ -349,13 +298,6 @@ LATEX
 
 
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ehhurst&theme=transparent&hide_border=true&ring=ff6fae&fire=ff6fae&currStreakLabel=ff6fae&sideLabels=ff9ebb&currStreakNum=ff9ebb&sideNums=ff9ebb&dates=ff9ebb" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ehhurst&theme=transparent&hide_border=true&ring=ff9ebb&fire=ff9ebb&currStreakLabel=ff9ebb&sideLabels=ffc3d6&currStreakNum=ffc3d6&sideNums=ffc3d6&dates=ffc3d6" />
-</p>
 
 ![Emily's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ehhurst&bg_color=00000000&color=FF6FAE&line=FF6FAE&point=FF6FAE&area=true)
 
@@ -370,12 +312,28 @@ social books project
 
 
 
-<a id="react-projects"></a>
+<a id="web-apps"></a>
 <details>
-  <summary><b>React Projects</b></summary>
+  <summary><b>Web Applications</b></summary>
+  <p align="center">
+  <a href="https://github.com/ehhurst/vets-at-vt">
+    <img width="420" src="https://github-readme-stats-fork-orpin.vercel.app/api/pin/?username=ehhurst&repo=vets-at-vt&theme=transparent&hide_border=true&title_color=FF9EBB&text_color=FFC3D6&icon_color=FF9EBB" />
+  </a>
+</p>
 
-- **Alexandria Virtual Patient** — avatar UI
+<p align="center">
+  <a href="https://github.com/ehhurst/vets-at-vt">
+    <img width="420" src="https://github-readme-stats-fork-orpin.vercel.app/api/pin/?username=ehhurst&repo=social-books&theme=transparent&hide_border=true&title_color=FF9EBB&text_color=FFC3D6&icon_color=FF9EBB" />
+  </a>
+</p>
+
+- **Alexandria Virtual Patient**
 - **Veterans@VT** — site UI
+
+social books project
+<p align="center">
+  <img src="https://github-readme-stats-fork-orpin.vercel.app/api/pin/?username=ehhurst&repo=social-books&theme=transparent&hide_border=true" />
+</p>
 
 </details>
 
@@ -394,6 +352,7 @@ social books project
 </p>
 A full-stack web platform for the Virginia Tech Student Veterans Organization  
 that supports public event visibility and role-based admin management.  
+
 ![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=next.js&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-0F172A?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=336791)
@@ -425,18 +384,7 @@ that supports public event visibility and role-based admin management.
 ## Python
 - **NHANES CVD Viz/ML** — Dash dashboard + analysis
 
-#### Simulation
-![Three.js](...)
-![Socket.IO](...)
-![TypeScript](...)
 
-#### Backend
-![Node.js](...)
-![Express](...)
-
-#### Research
-![Python](...)
-![NetworkX](...)
 | Category | Technologies |
 |--------|--------------|
 | **Languages** | Python, JavaScript, TypeScript, Java, C, Kotlin, SQL, Bash |
