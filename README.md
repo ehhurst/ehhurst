@@ -170,7 +170,7 @@ Today, my interests include software development, human-computer interaction (HC
 
 <br><br>
 
-<a href="https://github.com/ehhurst/TellMyProf">Repo →</a>
+<a href="https://github.com/ehhurst/mcat-app">Repo →</a>
 
 </td>
   </tr>
