@@ -1,56 +1,70 @@
+<!-- INTRO -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1200&color=FF9EBB&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Emily;M.Eng.+Computer+Science+Student+%40+Virginia+Tech;Clinical+Neuroscience+→+Software+Engineering;Software+Development%20%E2%80%A2%20HCI%20%E2%80%A2%20Cybersecurity"/>
+</p>
+
 ## 🌸 About Me
 
-### Hi, I'm Emily!
+I'm a graduate student in the M.Eng. Computer Science & Applications program at Virginia Tech with a background in clinical neuroscience, healthcare systems, and software engineering.
 
-I'm a graduate student in the M.Eng. Computer Science & Applications program at Virginia Tech with a background spanning clinical neuroscience, healthcare systems, and software engineering.
+My path into computer science began after working in a hospital system, where I started building tools and automations to support clinical teams. That experience sparked my interest in designing systems that improve workflows and make complex work easier for the people doing it.
 
-I didn’t originally plan to study computer science and during my undergraduate studies I was on the pre-medical track. However, after graduating in 2020 and working in a hospital system, my path shifted. I had the opportunity to build and automate tools for the clinical team I worked with and through that experience I discovered that I loved creating systems that make people’s work easier and more efficient.
+Today, my interests include software development, human-computer interaction (HCI), and cybersecurity. I enjoy building projects that create meaningful impact, particularly in healthcare, education, and community-focused environments.
 
-My current interests include software development, human-computer interaction (HCI), and cybersecurity. I care a lot about the impact that the projects I build have on clients and my community, and I'm currently working on projects that span the healthcare, education, and community service sectors.
+<!-- CONTACT INFO -->
 
-
-
-**How to reach me**
-    
 ![Email](https://img.shields.io/badge/Email-FF9EBB?style=for-the-badge&logo=gmail&logoColor=0F172A)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-FF9EBB?style=for-the-badge&logo=linkedin&logoColor=0F172A)
+![Static Badge](https://img.shields.io/badge/LinkedIn-FF9EBB?style=for-the-badge&logo=linkedin&logoColor=0F172A&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Femily-h-hurst%2F)
+<a href="https://img.shields.io/badge/LinkedIn-FF9EBB?style=for-the-badge&logo=linkedin&logoColor=0F172A&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Femily-h-hurst%2F
+"/>
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-FF9EBB?style=for-the-badge&logo=linkedin&logoColor=0F172A&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Femily-h-hurst%2F)
 ![GitHub](https://img.shields.io/badge/GitHub-FF9EBB?style=for-the-badge&logo=github&logoColor=0F172A)
 
-- **Email:** emilyhhurst1@gmail.com  
+- **Email:** emilyhhurst1@gmail.com
 - **LinkedIn:** linkedin.com/in/emily-h-hurst
 
+<!-- SKILLS -->
 
+## Tech Stack
 
+<div style='display:inline-flex; border:2px solid red;'>
+  <div style='border:2px solid blue; padding:1em;'>
+    <h3>Languages</h3>
+    <img src="https://skillicons.dev/icons?i=python,java,c,js,ts,html,css"/>
+  </div>
+  <div style='border:2px solid blue; padding:1em;'>
+    <h3>Frameworks & Libraries</h3>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,django,express,flask,fastapi"/>
+  </div>
+  <div style='border:2px solid blue; padding:1em;'>
+    <h3>Cloud & Deployment</h3>
+    <img src="https://skillicons.dev/icons?i=aws,googlecloud,oracle,docker,heroku,vercel"/>
+  </div>
 
-<br/>
+  <div style='border:2px solid blue; padding:1em;'>
+    <h3>Databases</h3>
+    <img src="https://skillicons.dev/icons?i=sqlite,postgresql,supabase"/>
+  </div>
 
-## Featured Projects
+  <div style='border:2px solid blue; padding:1em;'>
+    <h3>Design Tools</h3>
+    <img src="https://skillicons.dev/icons?i=basalmiqwireframes,figma"/>
+  </div>
 
-<p align="center">
-  <a href="https://github.com/ehhurst/vets-at-vt">
-    <img width="420" src="https://github-readme-stats-fork-orpin.vercel.app/api/pin/?username=ehhurst&repo=vets-at-vt&theme=transparent&hide_border=true&title_color=FF9EBB&text_color=FFC3D6&icon_color=FF9EBB" />
-  </a>
-</p>
+  <div style='border:2px solid blue; padding:1em;'>
+    <h3>Developer Tools</h3>
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab"/>
+  </div>
+</div>
 
-<p align="center">
-  <a href="https://github.com/ehhurst/vets-at-vt">
-    <img width="420" src="https://github-readme-stats-fork-orpin.vercel.app/api/pin/?username=ehhurst&repo=social-books&theme=transparent&hide_border=true&title_color=FF9EBB&text_color=FFC3D6&icon_color=FF9EBB" />
-  </a>
-</p>
+<!-- PROFILE STATS + CHARTS -->
 
-
---- 
+# GitHub Stats
 
 <!-- Streak -->
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ehhurst&theme=transparent&hide_border=true&ring=FF9EBB&fire=FF9EBB&currStreakLabel=FF9EBB&sideLabels=FFC3D6&currStreakNum=FFC3D6&sideNums=FFC3D6&dates=FFC3D6" />
-</div>
-
-<br>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=ehhurst&bg_color=00000000&color=FF9EBB&line=FF9EBB&point=FF9EBB&area=true&hide_border=true" />
 </div>
 
 <br>
@@ -63,18 +77,53 @@ My current interests include software development, human-computer interaction (H
 
 <br>
 
-
-
 <!-- Profile Views -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ehhurst&color=FF9EBB" />
 </div>
 
+---
 
+# Activity Graph
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ehhurst&bg_color=transparent&color=FF9EBB&line=FF9EBB&point=FFC3D6&hide_border=true" />
+</p>
+
+---
+
+<!-- PROJECTS -->
 
 ## 🌸 Featured Projects
-Alexandria Virtual Patient
 
+<div style='border: 2px solid blue; display: flex; flex-direction:row; padding: 1em;'>
+  <div style='border : 2px dashed purple; display: inline-flex; justify-content: space-between; flex-direction: column; '>
+    <p align="center">
+      <a href="https://github.com/ehhurst/vets-at-vt">
+        <img width="420" src="https://github-readme-stats-fork-orpin.vercel.app/api/pin/?username=ehhurst&repo=vets-at-vt&theme=transparent&hide_border=true&title_color=FF9EBB&text_color=FFC3D6&icon_color=FF9EBB" />
+      </a>
+    </p>
+    <div style='border: 2px solid blue; padding: 1em;'>
+      <h3 style='color:FF93BB'>Tech Stack</h3>
+
+![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=flat&logo=next.js&logoColor=FF93BB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=flat&logo=typescript&logoColor=FF9EBB)
+![Static Badge](https://img.shields.io/badge/Supabase-0F172A?style=flat&logo=supabase&logoColor=FF9EBB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0F172A?style=flat&logo=tailwindcss&logoColor=FF9EBB)
+
+  </div>
+
+</div>
+<a src="https://veterans-at-vt.vercel.app/" style='padding: 1em; width:match-parent hover:cursor-pointer;'>
+
+![Veterans@VT Homepage](/images/vets-at-vt-screenshot.png)
+
+</a>
+
+</div>
+
+Alexandria Virtual Patient
 
 ![Python](https://img.shields.io/badge/Python-0F172A?style=flat&logo=python&logoColor=FF9EBB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=flat&logo=typescript&logoColor=FF9EBB)
@@ -86,18 +135,15 @@ Alexandria Virtual Patient
 ![Static Badge](https://img.shields.io/badge/Handshake-black?style=flat&logo=handshake&logoColor=%23D3FB52)
 ![Static Badge](https://img.shields.io/badge/Handshake-grey?style=flat&logo=handshake&logoColor=%23D3FB52)
 
-
-    
 ## My Skills
-### Languages
 
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=23FFD43B)
 ![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&)
 ![CSS](https://img.shields.io/badge/CSS-0f172a?style=for-the-badge&logo=css&logoColor=%23663399)
-
 
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=%23FFD43B)
 ![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?style=flat&logo=typescript&logoColor=white)
@@ -108,8 +154,8 @@ Alexandria Virtual Patient
 ![Static Badge](https://img.shields.io/badge/-white?style=flat&logo=c&logoColor=%23A8B9CC)
 ![Static Badge](https://img.shields.io/badge/Python-white?style=flat&logo=python&logoColor=%233776AB)
 
-
 ### Frontend
+
 ![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&)
 ![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4)
@@ -147,7 +193,9 @@ Alexandria Virtual Patient
 ![Static Badge](https://img.shields.io/badge/React_Router-grey?style=flat&logo=reactrouter&logoColor=%23CA4245)
 ![Static Badge](https://img.shields.io/badge/React_Router-white?style=flat&logo=reactrouter&logoColor=%23CA4245)
 ![Static Badge](https://img.shields.io/badge/React_Router-black?style=flat&logo=reactrouter&logoColor=%23CA4245)
+
 ### Backend
+
 ![Static Badge](https://img.shields.io/badge/FastAPI-white?style=flat&logo=fastapi&logoColor=%23009688)
 ![Static Badge](https://img.shields.io/badge/FastAPI-grey?style=flat&logo=fastapi&logoColor=%23009688)
 ![Static Badge](https://img.shields.io/badge/FastAPI-black?style=flat&logo=fastapi&logoColor=%23009688)
@@ -167,8 +215,8 @@ Alexandria Virtual Patient
 ![Static Badge](https://img.shields.io/badge/npm-grey?style=flat&logo=npm&logoColor=%23CB3837)
 
 ### Databases
-![Static Badge](https://img.shields.io/badge/SQLite-%23003B57?style=flat&logo=sqlite&logoColor=white)
 
+![Static Badge](https://img.shields.io/badge/SQLite-%23003B57?style=flat&logo=sqlite&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-%234169E1?style=flat&logo=postgresql&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-white?style=flat&logo=postgresql&logoColor=%234169E1)
@@ -182,12 +230,10 @@ Alexandria Virtual Patient
 ![Static Badge](https://img.shields.io/badge/Supabase-grey?style=flat&logo=supabase&logoColor=%233FCF8E)
 ![Static Badge](https://img.shields.io/badge/Supabase-black?style=flat&logo=supabase&logoColor=%233FCF8E)
 
-
-
 ### Networking & Security
+
 ![Static Badge](https://img.shields.io/badge/WireShark-%231679A7?style=flat&logo=wireshark&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/OpenSSL-%23721412?style=flat&logo=openssl&logoColor=white)
-
 
 ### Data Analytics & AI
 
@@ -206,6 +252,7 @@ Alexandria Virtual Patient
 ![Static Badge](https://img.shields.io/badge/Anaconda-%2344A833?style=flat&logo=anaconda&logoColor=white)
 
 ### DevOps & Cloud Computing
+
 ![Static Badge](https://img.shields.io/badge/Docker-black?style=flat&logo=docker&logoColor=%232496ED)
 ![Static Badge](https://img.shields.io/badge/Docker-white?style=flat&logo=docker&logoColor=%232496ED)
 ![Static Badge](https://img.shields.io/badge/Docker-grey?style=flat&logo=docker&logoColor=%232496ED)
@@ -237,9 +284,6 @@ Alexandria Virtual Patient
 ![Static Badge](https://img.shields.io/badge/Diagrams.net-grey?style=flat&logo=diagramsdotnet&logoColor=%23F08705)
 ![Static Badge](https://img.shields.io/badge/Diagrams.net-black?style=flat&logo=diagramsdotnet&logoColor=%23F08705)
 
-
-
-
 ![Static Badge](https://img.shields.io/badge/Linux-black?style=flat&logo=linux&logoColor=%23FCC624)
 ![Static Badge](https://img.shields.io/badge/Linux-white?style=flat&logo=linux&logoColor=%23FCC624)
 ![Static Badge](https://img.shields.io/badge/Linux-grey?style=flat&logo=linux&logoColor=%23FCC624)
@@ -260,10 +304,8 @@ Alexandria Virtual Patient
 ![Static Badge](https://img.shields.io/badge/GitLab-black?style=flat&logo=gitlab&logoColor=%23FC6D26)
 ![Static Badge](https://img.shields.io/badge/GitLab-grey?style=flat&logo=gitlab&logoColor=%23FC6D26)
 
-
 ![Static Badge](https://img.shields.io/badge/-grey?style=flat&logo=c&logoColor=%23A8B9CC)
 ![Static Badge](https://img.shields.io/badge/-black?style=flat&logo=c&logoColor=%23A8B9CC)
-
 
 ![Static Badge](https://img.shields.io/badge/Jupyter-%23F37626?style=flat&logo=jupyter&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Jupyter-white?style=flat&logo=jupyter&logoColor=%23F37626)
@@ -275,130 +317,26 @@ LATEX
 ![Static Badge](https://img.shields.io/badge/JWT-%23000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/JWT-white?style=flat&logo=jsonwebtokens&logoColor=%23000000)
 
-
-
-<!-- Stats + Languages -->
-<div align="center">
-
-  <img height="165" src="https://github-readme-stats-fork-orpin.vercel.app/api/top-langs/?username=ehhurst&layout=compact&theme=transparent&hide_border=true&title_color=FF9EBB&text_color=FFC3D6" />
-</div>
-
-<br>
-
-<!-- Profile Views -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ehhurst&color=FF9EBB" />
-</div>
-
-
 ![Top Languages](https://github-readme-stats-fork-orpin.vercel.app/api/top-langs/?username=ehhurst&layout=compact&theme=transparent&hide_border=true&title_color=ff6fae&text_color=ff9ebb)
 ![GitHub Stats](https://github-readme-stats-fork-orpin.vercel.app/api?username=ehhurst&show_icons=true&theme=transparent&hide_border=true&title_color=ff6fae&text_color=ff9ebb&icon_color=ff6fae)
 
-
-
-
-
-
-![Emily's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ehhurst&bg_color=00000000&color=FF6FAE&line=FF6FAE&point=FF6FAE&area=true)
-
 ![](https://komarev.com/ghpvc/?username=ehhurst&color=FF6FAE)
 
-
-
-social books project
-<p align="center">
-  <img src="https://github-readme-stats-fork-orpin.vercel.app/api/pin/?username=ehhurst&repo=social-books&theme=transparent&hide_border=true" />
-</p>
-
-
-
-<a id="web-apps"></a>
-<details>
-  <summary><b>Web Applications</b></summary>
-  <p align="center">
-  <a href="https://github.com/ehhurst/vets-at-vt">
-    <img width="420" src="https://github-readme-stats-fork-orpin.vercel.app/api/pin/?username=ehhurst&repo=vets-at-vt&theme=transparent&hide_border=true&title_color=FF9EBB&text_color=FFC3D6&icon_color=FF9EBB" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ehhurst/vets-at-vt">
-    <img width="420" src="https://github-readme-stats-fork-orpin.vercel.app/api/pin/?username=ehhurst&repo=social-books&theme=transparent&hide_border=true&title_color=FF9EBB&text_color=FFC3D6&icon_color=FF9EBB" />
-  </a>
-</p>
-
-- **Alexandria Virtual Patient**
-- **Veterans@VT** — site UI
-
-social books project
-<p align="center">
-  <img src="https://github-readme-stats-fork-orpin.vercel.app/api/pin/?username=ehhurst&repo=social-books&theme=transparent&hide_border=true" />
-</p>
-
-</details>
-
-<a id="ts-projects"></a>
-<details>
-  <summary><b>TypeScript Projects</b></summary>
-
-- **Alexandria Virtual Patient** — server + tests
-- **MCAT-App** — (if TS involved)
-
-</details>
-<p align="center">
-  <a href="https://github.com/ehhurst/vets-at-vt">
-    <img src="https://github-readme-stats-fork-orpin.vercel.app/api/pin/?username=ehhurst&repo=vets-at-vt&theme=transparent&hide_border=true" />
-  </a>
-</p>
-A full-stack web platform for the Virginia Tech Student Veterans Organization  
-that supports public event visibility and role-based admin management.  
-
-![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=next.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-0F172A?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=336791)
-**Tech Stack:** Next.js • Tailwind • Supabase • PostgreSQL • ICS Calendar Integration
-
-
-<p align="center">
-  <a href="https://github.com/ehhurst/vets-at-vt">
-    <img src="https://github-readme-stats-fork-orpin.vercel.app/api/pin/?username=ehhurst&repo=vets-at-vt&theme=transparent&hide_border=true" />
-  </a>
-</p>
-<p></p>
-  <a href="https://veterans-at-vt.vercel.app/">
-    <img width="700" alt="Veterans@VT website preview"
-         src="https://image.thum.io/get/width/1200/https://veterans-at-vt.vercel.app/" />
-  </a>
-</p>
-
-
-
-## React
-- **Alexandria Virtual Patient (UI)** — Three.js + R3F front-end  
-- **Veterans@VT** — Next.js + Tailwind
-
-## TypeScript
-- **Alexandria Virtual Patient** — server + socket events + tests  
-- **TellMyProf** — (whatever you want to list)
-
-## Python
-- **NHANES CVD Viz/ML** — Dash dashboard + analysis
-
-
-| Category | Technologies |
-|--------|--------------|
-| **Languages** | Python, JavaScript, TypeScript, Java, C, Kotlin, SQL, Bash |
-| **Frontend** | React, Next.js, HTML, CSS, Tailwind CSS |
-| **Backend** | FastAPI, Flask, Node.js, REST APIs |
-| **Databases** | PostgreSQL, SQLite |
-| **Cloud & DevOps** | Docker, GitHub Actions, Vercel, GCP, Oracle Cloud |
-| **Auth & Security** | OAuth2, JWT, RBAC, bcrypt |
-| **Data & Visualization** | Pandas, Plotly, Dash |
-| **Systems & Networking** | SDN, Ryu, Mininet |
-| **Design & UX** | Figma, Balsamiq Wireframes |
-| **Tooling** | Git, Linux, CI/CD, Agile Project Management |
+| Category                 | Technologies                                               |
+| ------------------------ | ---------------------------------------------------------- |
+| **Languages**            | Python, JavaScript, TypeScript, Java, C, Kotlin, SQL, Bash |
+| **Frontend**             | React, Next.js, HTML, CSS, Tailwind CSS                    |
+| **Backend**              | FastAPI, Flask, Node.js, REST APIs                         |
+| **Databases**            | PostgreSQL, SQLite                                         |
+| **Cloud & DevOps**       | Docker, GitHub Actions, Vercel, GCP, Oracle Cloud          |
+| **Auth & Security**      | OAuth2, JWT, RBAC, bcrypt                                  |
+| **Data & Visualization** | Pandas, Plotly, Dash                                       |
+| **Systems & Networking** | SDN, Ryu, Mininet                                          |
+| **Design & UX**          | Figma, Balsamiq Wireframes                                 |
+| **Tooling**              | Git, Linux, CI/CD, Agile Project Management                |
 
 ---
-## Projects I’m Currently Working On
-- **MCAT Study Platform** — A full-stack web application (FastAPI, SQLAlchemy, React/Next.js) that helps premedical students plan and track long-term MCAT study, with a focus on accessibility for low-income and underrepresented students.
-- **Veterans@VT Website** — Designing and maintaining a responsive website that centralizes resources, events, and information for the Virginia Tech student veteran community.
+
+![Python](https://img.shields.io/badge/Python-FF9EBB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-FF9EBB?style=for-the-badge&logo=react&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-FF9EBB?style=for-the-badge&logo=docker&logoColor=white)
