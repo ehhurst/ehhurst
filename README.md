@@ -37,11 +37,12 @@ Today, my interests include software development, human-computer interaction (HC
 ![Static Badge](https://img.shields.io/badge/NumPy-%23013243?style=flat&logo=numpy&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/Plotly-black?style=flat&logo=plotly&logoColor=%237A76FF) |
-| **Systems & Networking** | SDN, Ryu, Mininet  
-![Static Badge](https://img.shields.io/badge/WireShark-%231679A7?style=flat&logo=wireshark&logoColor=white)
-![Static Badge](https://img.shields.io/badge/OpenSSL-%23721412?style=flat&logo=openssl&logoColor=white)  
- |
-| **Tooling** | <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,latex,jest,vitest,eclipse,vscode,pycharm,intellij,vite,figma,diagrams.net,jupyter"/> ![Static Badge](https://img.shields.io/badge/Ubuntu-%23E95420?style=flat&logo=ubuntu&logoColor=white) ![Static Badge](https://img.shields.io/badge/VirtualBox-white?style=flat&logo=virtualbox&logoColor=%232F61B4) ![Static Badge](https://img.shields.io/badge/Diagrams.net-black?style=flat&logo=diagramsdotnet&logoColor=%23F08705)|
+| **Systems & Networking** | SDN, Ryu, Mininet ![Static Badge](https://img.shields.io/badge/WireShark-%231679A7?style=flat&logo=wireshark&logoColor=white) ![Static Badge](https://img.shields.io/badge/OpenSSL-%23721412?style=flat&logo=openssl&logoColor=white) |
+
+| **Tooling** | <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,latex,jest,vitest,eclipse,vscode,pycharm,intellij,vite,figma,diagrams.net,jupyter"/>
+![Static Badge](https://img.shields.io/badge/Ubuntu-%23E95420?style=flat&logo=ubuntu&logoColor=white)
+![Static Badge](https://img.shields.io/badge/VirtualBox-white?style=flat&logo=virtualbox&logoColor=%232F61B4)
+![Static Badge](https://img.shields.io/badge/Diagrams.net-black?style=flat&logo=diagramsdotnet&logoColor=%23F08705)|
 
 <!-- PROFILE STATS + CHARTS -->
 
@@ -93,14 +94,9 @@ Today, my interests include software development, human-computer interaction (HC
         <sub>AI-driven EMS training simulation using speech recognition and real-time avatars. </sub>
     <br><br>
 
-<img src="https://skillicons.dev/icons?i=nextjs,ts,nodejs,express,socket,three,postgres,docker&perline=7" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=nextjs,ts,materialui,nodejs,express,socket,three,postgres,docker,githubactions,playwright,vitest&perline=7" alt="Tech stack" />
 
-![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=flat&logo=next.js&logoColor=FF93BB)
-![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=flat&logo=typescript&logoColor=FF9EBB)
-![MaterialUI](https://img.shields.io/badge/MaterialUI-0F172A?style=flat&logo=mui&logoColor=FF9EBB)
 ![Three.js](https://img.shields.io/badge/Three.js-0F172A?style=flat&logo=threedotjs&logoColor=FF9EBB)
-![Express.js](https://img.shields.io/badge/Express.js-0F172A?style=flat&logo=express&logoColor=FF9EBB)
-![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=flat&logo=nodedotjs&logoColor=FF9EBB)
 ![Socket.io](https://img.shields.io/badge/Socket.io-0F172A?style=flat&logo=socketdotio&logoColor=FF9EBB)
 
 <br><br>
@@ -124,11 +120,6 @@ Today, my interests include software development, human-computer interaction (HC
 <br><br>
 
 <img src="https://skillicons.dev/icons?i=next,ts,tailwindcss,sqlite,docker,aws&perline=6" alt="Tech stack" />
-
-![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=flat&logo=next.js&logoColor=FF93BB)
-![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=flat&logo=typescript&logoColor=FF9EBB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0F172A?style=flat&logo=tailwindcss&logoColor=FF9EBB)
-![Static Badge](https://img.shields.io/badge/SQLite-0F172A?style=flat&logo=sqlite&logoColor=FF9EBB)
 
 <br><br>
 
@@ -175,7 +166,7 @@ Today, my interests include software development, human-computer interaction (HC
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=react,ts,nodejs,postgres&perline=6" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=react,ts,vite,tailwindcss,python,fastapi,nodejs,postgres,docker,githubactions&perline=6" alt="Tech stack" />
 
 <br><br>
 
