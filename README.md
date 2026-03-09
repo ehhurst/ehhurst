@@ -82,45 +82,18 @@ Today, my interests include software development, human-computer interaction (HC
 
 ## 🌸 Featured Projects
 
-<div>
-  <div>
-    <h3 align='center'>Veterans@VT</h3>
-    <p align="center">
-      <a href="https://github.com/ehhurst/vets-at-vt">
-        <img width="420" src="https://github-readme-stats-fork-orpin.vercel.app/api/pin/?username=ehhurst&repo=vets-at-vt&theme=transparent&hide_border=true&title_color=FF9EBB&text_color=FFC3D6&icon_color=FF9EBB" />
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>Alexandria Virtual Patient Simulation Platform</h3>
+    <a href="https://github.com/ehhurst/alexandria-virtual-patient">
+        <img src="images/avp-demo1.png" width="420" alt="Alexandria Virtual Patient Avatar Demo" />
       </a>
-    </p>
-    <div>
-      <h3>Tech Stack</h3>
+      <br><br>
+        <sub>AI-driven EMS training simulation using speech recognition and real-time avatars. </sub>
+    <br><br>
 
-![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=flat&logo=next.js&logoColor=FF93BB)
-![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=flat&logo=typescript&logoColor=FF9EBB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0F172A?style=flat&logo=tailwindcss&logoColor=FF9EBB)
-![Static Badge](https://img.shields.io/badge/SQLite-0F172A?style=flat&logo=sqlite&logoColor=FF9EBB)
-
-  </div>
-
-  </div>
-  <a src="https://veterans-at-vt.vercel.app/" style='padding: 1em; width:match-parent;max-width:0.5f'>
-
-![Veterans@VT Homepage](/images/vets-at-vt-screenshot.png)
-
-  </a>
-
-</div>
-
----
-
-<div>
-  <div>
-  <h3 align='center'>Alexandria Virtual Patient Simulation Platform</h3>
-    <p align="center">
-      <a href="https://github.com/ehhurst/vets-at-vt">
-        <img width="420" src="https://github-readme-stats-fork-orpin.vercel.app/api/pin/?username=ehhurst&repo=vets-at-vt&theme=transparent&hide_border=true&title_color=FF9EBB&text_color=FFC3D6&icon_color=FF9EBB" />
-      </a>
-    </p>
-    <div>
-      <h3 style='color:FF93BB'>Tech Stack</h3>
+<img src="https://skillicons.dev/icons?i=nextjs,ts,nodejs,express,socket,three,postgres,docker&perline=7" alt="Tech stack" />
 
 ![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=flat&logo=next.js&logoColor=FF93BB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=flat&logo=typescript&logoColor=FF9EBB)
@@ -130,15 +103,86 @@ Today, my interests include software development, human-computer interaction (HC
 ![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=flat&logo=nodedotjs&logoColor=FF9EBB)
 ![Socket.io](https://img.shields.io/badge/Socket.io-0F172A?style=flat&logo=socketdotio&logoColor=FF9EBB)
 
-  </div>
+<br><br>
 
-  </div>
-  <a src="https://veterans-at-vt.vercel.app/" style='padding: 1em; width:match-parent;max-width:0.5f'>
+<a href="https://github.com/ehhurst/alexandria-virtual-patient">Repo →</a>
 
-![Veterans@VT Homepage](/images/vets-at-vt-screenshot.png)
+</td>
 
-  </a>
+<td width="50%" align="center">
 
-</div>
+<h3>Veterans@VT Website</h3>
+
+<a href="https://veterans-at-vt.vercel.app/">
+<img src="images/vets-at-vt-screenshot.png" width="420" alt="Veterans at Virginia Tech Demo" />
+</a>
+
+<br><br>
+
+<sub>Website for Veterans@VT student organization at Virginia Tech. Features outlook calendar integration, admin-editable content, and a shared-password member portal.</sub>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=next,ts,tailwindcss,sqlite,docker,aws&perline=6" alt="Tech stack" />
+
+![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=flat&logo=next.js&logoColor=FF93BB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=flat&logo=typescript&logoColor=FF9EBB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0F172A?style=flat&logo=tailwindcss&logoColor=FF9EBB)
+![Static Badge](https://img.shields.io/badge/SQLite-0F172A?style=flat&logo=sqlite&logoColor=FF9EBB)
+
+<br><br>
+
+<a href="https://github.com/ehhurst/vets-at-vt">Repo →</a>
+
+</td>
+
+  </tr>
+
+  <tr>
+    <td width="50%" align="center">
+    
+  <h3>ShelfLife</h3>
+
+<a href="http://34.238.53.95:5173/">
+<img src="images/shelflife.png" width="420" alt="ShelfLife demo" />
+</a>
+
+<br><br>
+
+<sub>A full-stack social media-like web application for avid readers designed to promote social reading through features like book reviews, personalized libraries, reading goals, and reading competitions. </sub>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=react,python,flask,sqlite,aws&perline=6" alt="Tech stack" />
+
+<br><br>
+
+<a href="https://github.com/ehhurst/social-books">Repo →</a>
+
+</td>
+
+<td width="50%" align="center">
+
+<h3>MCAT App</h3>
+
+<a href="https://github.com/ehhurst/mcat-app">
+<img src="images/tellmyprof.png" width="420" alt="MCAT App Demo Coming Soon" />
+</a>
+
+<br><br>
+
+<sub>A full-stack platform that helps low-income premedical students prepare for the MCAT using personalized study plans, free practice questions, and analytics-driven recommendations. </sub>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=react,ts,nodejs,postgres&perline=6" alt="Tech stack" />
+
+<br><br>
+
+<a href="https://github.com/ehhurst/TellMyProf">Repo →</a>
+
+</td>
+  </tr>
+</table>
 
 ---
