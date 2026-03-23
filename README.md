@@ -14,10 +14,10 @@ Today, my interests include software development, human-computer interaction (HC
 <!-- CONTACT INFO -->
 
 ![Email](https://img.shields.io/badge/Email-FF9EBB?style=for-the-badge&logo=gmail&logoColor=0F172A)
+- emilyhhurst1@gmail.com
+  
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-FF9EBB?style=for-the-badge&logo=linkedin&logoColor=0F172A&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Femily-h-hurst%2F)
-
-- **Email:** emilyhhurst1@gmail.com
-- **LinkedIn:** linkedin.com/in/emily-h-hurst
+- [linkedin.com/in/emily-h-hurst](https://www.linkedin.com/in/emily-h-hurst/)
 
 <!-- SKILLS -->
 
