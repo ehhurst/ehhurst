@@ -1,6 +1,6 @@
 <!-- INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1200&color=FF9EBB&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Emily;M.Eng.+Computer+Science+Student+%40+Virginia+Tech;Clinical+Neuroscience+→+Software+Engineering;Software+Development%20%E2%80%A2%20HCI%20%E2%80%A2%20Cybersecurity"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1200&color=FF9EBB&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Emily"/>
 </p>
 I'm a Computer Scientist and Undergraduate Academic Advisor at Virginia Tech with a background in Healthcare. I'm interested in improving the ways that AI/ML is integrated into educational environments by evaluating current solutions and using those findings to support development of new software that is student-focused, includes AI/ML components in ubiquitous, natural ways to facilitate goals of learning, critical thinking skill development, and the hidden curriculum of higher education by facilitating student processes rather than interrupting or taking over them. 
 
