@@ -12,19 +12,11 @@ As generative AI technologies and chatbots have become widely accessible and int
 
 I'm interested in exploring how AI/ML can be integrated in ubiquitous, unobtrusive ways that naturally facilitate learning, critical thinking, and skills associated with the hidden curriculum of higher education. I want to develop technology that supports students through their educational experiences while preserving opportunities for independent thinking, problem-solving, interpersonal relationship building, and personal growth. I'm interested in how technology can better support the academic, social, and professional development of future computer scientists.
 
+
 ## 🌸 Background
 My interest in computer science began in healthcare while working as a medical scribe in the Emergency Department at Roanoke Memorial Hospital, one of the largest hospitals in Virginia, serving Roanoke, Southwest Virginia, and parts of West Virginia and North Carolina. During my time as a scribe, I noticed inefficiencies in my team's documentation practices. To improve efficiency and reduce repetition and unnecessary data entry, I learned the health record software. Eventually, I developed note templates using logic-based SmartPhrases that automatically pulled real-time patient data into documentation, which ultimately cut the time our team spent on documentation by more than 50%. As a result, I was later tasked with redoing documentation and clinical workflows to restructure the psychiatric unit of the emergency department. I gained my first exposure to building a product alongside a client, writing technical documentation, working with hospital administrators, and ultimately rolling out the new workflow and training clinical staff. My work contributed to the start of a new hospital program, the Comprehensive Emergency Psychiatric Evaluation Program (CPEP), and that experience led me to shift my life path and pursue computer science. 
 
 Since graduating, I've worked on a startup team developing business management software, primarily focusing on frontend design and implementation for a product supporting approximately 300 users. I also work in Virginia Tech's Department of Computer Science as an Undergraduate Academic Advisor, where I manage ~200 students and help facilitate and develop CS 1944, our first-year seminar for computer science students. 
-
-<!-- CONTACT INFO -->
-
-![Email](https://img.shields.io/badge/Email-FF9EBB?style=for-the-badge&logo=gmail&logoColor=0F172A)
-- emilyhhurst1@gmail.com
-  
-![LinkedIn](https://img.shields.io/badge/LinkedIn-FF9EBB?style=for-the-badge&logo=linkedin&logoColor=0F172A&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Femily-h-hurst%2F)
-- [linkedin.com/in/emily-h-hurst](https://www.linkedin.com/in/emily-h-hurst/)
-
 
 <!-- SKILLS -->
 
