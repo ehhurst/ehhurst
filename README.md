@@ -4,12 +4,11 @@
 </p>
 
 ## 🌸 About Me
+I'm a computer scientist and undergraduate CS academic advisor at Virginia Tech with an interdisciplinary background. My interests in computer science started in the healthcare field while working as a medical scribe in the Emergency Department of Roanoke Memorial Hospital, one of the largest hospitals in Virginia servicing Roanoke, Southwest Virginia, as well as areas of West Virginia and North Carolina. During my time as a scribe, I noticed inefficiencies in my team's documentation practices. With a goal of improving work efficiency and decreasing repetition and unnecessary data entry, I learned the health record software and eventually developed note templates using logic-based SmartPhrases that automatically pulled real-time patient data into documentation, which ultimately cut the amount of time our team spent on documentation down by more than 50%. As a result of that work, I was later tasked with redoing documentation and clinical workflows to restructure the psychiatric unit of the emergency department and gained my first exposure to building a product alongside a client, writing technical documentation, working with hospital administrators, and ultimately rolling out the new workflow and training clinical staff. My work contributed to the start of a new hospital program, the Comprehensive Emergency Psychiatric Evaluation Program (CPEP), and that experience led me to shift my life path and pursue computer science. After spending time exploring CS on my own, I pursued the Master of Engineering in CS program at Virginia Tech, which I completed in May of 2026. 
 
-I'm a graduate student in the M.Eng. Computer Science & Applications program at Virginia Tech with a background in clinical neuroscience, healthcare systems, and software engineering.
+My interests include building software with human-centered design at the forefront including AI-integrations to improve others lives in areas like Healthcare and education. For my capstone project, a group and I designed and built Alexandria Virtual Patient, a software simulation system where parametics in training can practice their clinical and patient-interaction skills with a realistic virtual patient through voice communication to practice their skills prior to practicing on real patients, increasing the realism of paramedic pre-hospital training. The patient interacts with the trainee through natural language, and the trainee communicates actions they are taking, the patient responds in a medically accurate way. 
 
-My path into computer science began after working in a hospital system, where I started building tools and automations to support clinical teams. That experience sparked my interest in designing systems that improve workflows and make complex work easier for the people doing it.
 
-Today, my interests include software development, human-computer interaction (HCI), and cybersecurity. I enjoy building projects that create meaningful impact, particularly in healthcare, education, and community-focused environments.
 
 <!-- CONTACT INFO -->
 
@@ -21,7 +20,7 @@ Today, my interests include software development, human-computer interaction (HC
 
 <!-- SKILLS -->
 
-## My Skills
+<!-- ## My Skills
 
 | Category                 | Technologies                                                                                                                                                                                                |
 | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -42,7 +41,7 @@ Today, my interests include software development, human-computer interaction (HC
 | **Tooling** | <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,latex,jest,vitest,eclipse,vscode,pycharm,intellij,vite,figma,diagrams.net,jupyter"/>
 ![Static Badge](https://img.shields.io/badge/Ubuntu-%23E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/VirtualBox-white?style=flat&logo=virtualbox&logoColor=%232F61B4)
-![Static Badge](https://img.shields.io/badge/Diagrams.net-black?style=flat&logo=diagramsdotnet&logoColor=%23F08705)|
+![Static Badge](https://img.shields.io/badge/Diagrams.net-black?style=flat&logo=diagramsdotnet&logoColor=%23F08705)| -->
 
 <!-- PROFILE STATS + CHARTS -->
 
