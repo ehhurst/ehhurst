@@ -2,13 +2,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1200&color=FF9EBB&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Emily;M.Eng.+Computer+Science+Student+%40+Virginia+Tech;Clinical+Neuroscience+→+Software+Engineering;Software+Development%20%E2%80%A2%20HCI%20%E2%80%A2%20Cybersecurity"/>
 </p>
+I'm a Computer Scientist and Undergraduate Academic Advisor at Virginia Tech with a background in Healthcare. I'm interested in improving the ways that AI/ML is integrated into educational environments by evaluating current solutions and using those findings to support development of new software that is student-focused, includes AI/ML components in ubiquitous, natural ways to facilitate goals of learning, critical thinking skill development, and the hidden curriculum of higher education by facilitating student processes rather than interrupting or taking over them. 
 
 ## 🌸 About Me
-I'm a computer scientist and undergraduate CS academic advisor at Virginia Tech with an interdisciplinary background. My interests in computer science started in the healthcare field while working as a medical scribe in the Emergency Department of Roanoke Memorial Hospital, one of the largest hospitals in Virginia servicing Roanoke, Southwest Virginia, as well as areas of West Virginia and North Carolina. During my time as a scribe, I noticed inefficiencies in my team's documentation practices. With a goal of improving work efficiency and decreasing repetition and unnecessary data entry, I learned the health record software and eventually developed note templates using logic-based SmartPhrases that automatically pulled real-time patient data into documentation, which ultimately cut the amount of time our team spent on documentation down by more than 50%. As a result of that work, I was later tasked with redoing documentation and clinical workflows to restructure the psychiatric unit of the emergency department and gained my first exposure to building a product alongside a client, writing technical documentation, working with hospital administrators, and ultimately rolling out the new workflow and training clinical staff. My work contributed to the start of a new hospital program, the Comprehensive Emergency Psychiatric Evaluation Program (CPEP), and that experience led me to shift my life path and pursue computer science. After spending time exploring CS on my own, I pursued the Master of Engineering in CS program at Virginia Tech, which I completed in May of 2026. 
+My interests in computer science started in the healthcare field while working as a medical scribe in the Emergency Department of Roanoke Memorial Hospital, one of the largest hospitals in Virginia servicing Roanoke, Southwest Virginia, as well as areas of West Virginia and North Carolina. During my time as a scribe, I noticed inefficiencies in my team's documentation practices. With a goal of improving work efficiency and decreasing repetition and unnecessary data entry, I learned the health record software and eventually developed note templates using logic-based SmartPhrases that automatically pulled real-time patient data into documentation, which ultimately cut the amount of time our team spent on documentation down by more than 50%. As a result of that work, I was later tasked with redoing documentation and clinical workflows to restructure the psychiatric unit of the emergency department and gained my first exposure to building a product alongside a client, writing technical documentation, working with hospital administrators, and ultimately rolling out the new workflow and training clinical staff. My work contributed to the start of a new hospital program, the Comprehensive Emergency Psychiatric Evaluation Program (CPEP), and that experience led me to shift my life path and pursue computer science. After spending time exploring CS on my own, I pursued the Master of Engineering in CS program at Virginia Tech, which I completed in May of 2026. My interests include building software with human-centered design at the forefront including AI-integrations to improve others lives in areas like Healthcare and education. For my capstone project, a group and I designed and built Alexandria Virtual Patient, a software simulation system where parametics in training can practice their clinical and patient-interaction skills with a realistic virtual patient through voice communication to practice their skills prior to practicing on real patients, increasing the realism of paramedic pre-hospital training. The patient interacts with the trainee through natural language, and the trainee communicates actions they are taking, the patient responds in a medically accurate way. 
 
-My interests include building software with human-centered design at the forefront including AI-integrations to improve others lives in areas like Healthcare and education. For my capstone project, a group and I designed and built Alexandria Virtual Patient, a software simulation system where parametics in training can practice their clinical and patient-interaction skills with a realistic virtual patient through voice communication to practice their skills prior to practicing on real patients, increasing the realism of paramedic pre-hospital training. The patient interacts with the trainee through natural language, and the trainee communicates actions they are taking, the patient responds in a medically accurate way. 
-
-
+Since graduating, I've worked on a startup team developing business management software, primarily focusing on frontend design and implementation for a product supporting approximately 300 users. I also work in Virginia Tech's Department of Computer Science as an Undergraduate Academic Advisor, where I manage ~200 students and assist in course facilitation and improvement of CS 1944, our first-year seminar for computer science students. 
 
 <!-- CONTACT INFO -->
 
@@ -17,6 +16,8 @@ My interests include building software with human-centered design at the forefro
   
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-FF9EBB?style=for-the-badge&logo=linkedin&logoColor=0F172A&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Femily-h-hurst%2F)
 - [linkedin.com/in/emily-h-hurst](https://www.linkedin.com/in/emily-h-hurst/)
+
+
 
 <!-- SKILLS -->
 
@@ -45,38 +46,7 @@ My interests include building software with human-centered design at the forefro
 
 <!-- PROFILE STATS + CHARTS -->
 
-# GitHub Stats
 
-<!-- Streak -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ehhurst&theme=transparent&hide_border=true&ring=FF9EBB&fire=FF9EBB&currStreakLabel=FF9EBB&sideLabels=FFC3D6&currStreakNum=FFC3D6&sideNums=FFC3D6&dates=FFC3D6" />
-</div>
-
-<br>
-
-<!-- Stats + Languages -->
-<div align="center">
-  <img height="165" src="https://github-readme-stats-fork-orpin.vercel.app/api?username=ehhurst&show_icons=true&theme=transparent&hide_border=true&title_color=FF9EBB&text_color=FFC3D6&icon_color=FF9EBB" />
-  <img height="165" src="https://github-readme-stats-fork-orpin.vercel.app/api/top-langs/?username=ehhurst&layout=compact&theme=transparent&hide_border=true&title_color=FF9EBB&text_color=FFC3D6" />
-</div>
-
-<br>
-
-<!-- Profile Views -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ehhurst&color=FF9EBB" />
-</div>
-
----
-
-# Activity Graph
-
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ehhurst&bg_color=transparent&color=FF9EBB&line=FF9EBB&point=FFC3D6&hide_border=true" />
-</p>
-
----
 
 <!-- PROJECTS -->
 
@@ -174,5 +144,37 @@ My interests include building software with human-centered design at the forefro
 </td>
   </tr>
 </table>
+
+---
+# GitHub Stats
+
+<!-- Streak -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ehhurst&theme=transparent&hide_border=true&ring=FF9EBB&fire=FF9EBB&currStreakLabel=FF9EBB&sideLabels=FFC3D6&currStreakNum=FFC3D6&sideNums=FFC3D6&dates=FFC3D6" />
+</div>
+
+<br>
+
+<!-- Stats + Languages -->
+<div align="center">
+  <img height="165" src="https://github-readme-stats-fork-orpin.vercel.app/api?username=ehhurst&show_icons=true&theme=transparent&hide_border=true&title_color=FF9EBB&text_color=FFC3D6&icon_color=FF9EBB" />
+  <img height="165" src="https://github-readme-stats-fork-orpin.vercel.app/api/top-langs/?username=ehhurst&layout=compact&theme=transparent&hide_border=true&title_color=FF9EBB&text_color=FFC3D6" />
+</div>
+
+<br>
+
+<!-- Profile Views -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ehhurst&color=FF9EBB" />
+</div>
+
+---
+
+# Activity Graph
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ehhurst&bg_color=transparent&color=FF9EBB&line=FF9EBB&point=FFC3D6&hide_border=true" />
+</p>
 
 ---
