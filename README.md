@@ -4,10 +4,6 @@
   src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1200&color=FF9EBB&center=true&vCenter=true&width=1000&lines=%F0%9F%91%8B+Hi,+I'm+Emily!"
   alt="👋 Hi, I'm Emily!" />
   
-  <img align="right"
-  src="url_of-Interest"
-  alt="👋 Hi, I'm Emily!" />
-  
 </p>
 
 
